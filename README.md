@@ -1,5 +1,5 @@
 # ChatGPT-1O-Flask
-ChatGPT application answering questions in English. Application written in Python 3.13.1 HTML5 and CSS3.
+ChatGPT application answering questions in English. Application written in Python 3.13.1, HTML5, CSS3 and Framework Flask.
 Instructions for using the program:
 
 # STEP 1: Install python from the official site: https://www.python.org/
